@@ -141,12 +141,16 @@
   <ItemGroup>
     <ClCompile Include="Lab1.c" />
     <ClCompile Include="Lab2.c" />
+    <ClCompile Include="Lab3.c" />
+    <ClCompile Include="Lab4.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="myInputManager.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Lab1.h" />
     <ClInclude Include="Lab2.h" />
+    <ClInclude Include="Lab3.h" />
+    <ClInclude Include="Lab4.h" />
     <ClInclude Include="myInputManager.h" />
   </ItemGroup>
   <ItemGroup>

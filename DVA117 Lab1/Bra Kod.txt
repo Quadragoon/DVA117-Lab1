@@ -22,3 +22,12 @@ void TODO_REPLACE_NAME_OF_FUNCTION()
         }
     } while (loopa);
 }
+
+
+
+-122  å
+-124  ä
+-108  ö
+-113  Å
+-114  Ä
+-103  Ö
